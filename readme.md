@@ -183,7 +183,7 @@ FileUtils.copyFile(srcFile,dstFile);
     * [Click Here for the Link](https://www.softwaretestingmaterial.com/install-selenium-4/)
 
 
-![img_2.png](img_2.png)
+![seleniumdownload](images/seleniumdownload.png)
 
 
 ## What is deprecated in Selenium 4
