@@ -1,4 +1,4 @@
-![selenium4]](images/selenium4.jpg)
+![selenium4](images/selenium4.jpg)
 # Selenium
 ## What is Selenium?
 
