@@ -60,15 +60,15 @@ ______
 
 ## What is New in Selenium 4?
 
-##**Selenium IDE**
+## **Selenium IDE**
 
 * To use this there is no need for extensive programming knowledge. It supports rapid test development. It is like a record and playback tool.
 
-##**Selenium WebDriver**
+## **Selenium WebDriver**
 
 * It automates browser and supports programming languages like Java, JavaScript, Python, Perl, etc.
 
-##**Selenium Grid**
+## **Selenium Grid**
 
 * Selenium Grid 4 allows us to run our test scripts across multiple machines or systems.
 
